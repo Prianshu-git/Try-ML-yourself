@@ -71,18 +71,6 @@ Each algorithm includes:
 - **Interactive Visualizations**: Real-time plots showing algorithm behavior
 - **Performance Metrics**: Accuracy, clustering scores, and other relevant metrics
 
-## Hosting Options
-
-### Free Hosting Platforms
-- **Streamlit Cloud**: Connect your GitHub repo for automatic deployment
-- **Heroku**: Free tier available for small applications
-- **Railway**: Simple deployment with GitHub integration
-- **Replit**: Online development and hosting environment
-
-### Local Network Access
-To access from other devices on your network:
-```bash
-streamlit run app.py --server.address 0.0.0.0
 ```
 
 ## Requirements

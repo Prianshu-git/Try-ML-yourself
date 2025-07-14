@@ -97,7 +97,10 @@ python setup_local.py
 ## User Interface
 
 
-https://github.com/user-attachments/assets/7a3a4564-3a72-47a0-bff4-e4a9b9b84644
+
+
+https://github.com/user-attachments/assets/8f99c3c9-4b2c-48f4-98a1-2efa7e0d79d2
+
 
 
 

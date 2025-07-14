@@ -74,14 +74,14 @@ An **interactive Streamlit app** that showcases popular machine learning algorit
 2️⃣ **Clone or download** this project to your computer.
 
 3️⃣ **Install dependencies**:
-   \`\`\`bash
+   ```bash
    pip install streamlit numpy pandas scikit-learn plotly
-   \`\`\`
+   ```
 
 4️⃣ **Run the application**:
-   \`\`\`bash
+   ```bash
    streamlit run app.py
-   \`\`\`
+   ```
 
 5️⃣ **Open your browser** at \`http://localhost:8501\` 🎨
 
@@ -89,9 +89,9 @@ An **interactive Streamlit app** that showcases popular machine learning algorit
 
 ### 🚀 **Alternative Setup**
 Or use the setup script:
-\`\`\`bash
+```bash
 python setup_local.py
-\`\`\`
+```
 
 ---
 ## User Interface

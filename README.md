@@ -141,7 +141,7 @@ All dependencies are standard Python packages:
 
 ## 📁 Project Structure
 
-\`\`\`
+```bash
 ├── app.py              # Main Streamlit application
 ├── algorithms.py       # ML algorithm implementations & descriptions
 ├── data_loader.py      # Dataset loading and preprocessing
@@ -149,7 +149,7 @@ All dependencies are standard Python packages:
 ├── setup_local.py      # Local setup script
 └── .streamlit/
     └── config.toml     # Streamlit configuration
-\`\`\`
+```
 
 ---
 
